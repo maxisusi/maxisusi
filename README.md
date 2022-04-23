@@ -12,20 +12,13 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td valign="top" ><img src="https://github-readme-stats.vercel.app/api?username=maxisusi&show_icons=true&theme=gotham" /></td>
-    <td valign="top">
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=maxisusi&theme=gotham" />
-    </td>
-  </tr>
-</table>
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=maxisusi&theme=radical" />
-</a> -->
-<!-- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxisusi&layout=compact&theme=radical" />
-</a> -->
+
+<a href="https://github.com/maxisusi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxisusi&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/maxisusi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=maxisusi&theme=dark" />
+</a>
 
 
 
