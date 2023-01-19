@@ -16,12 +16,12 @@
 
 ## My Tools 🛠
 
-  - ReactJS ❤️
-  - MongoDB & Firebase 
-  - C# for Unity 🎮
-  - HTML/CSS/JS 
-  - SCSS
+  - NextJS with Typescript ❤️
+  - TRPC
+  - Prisma
   - Tailswind
-  - Material UI
-  - GSAP 🧦
-  - Framer Motion
+  - Supabase
+  - GraphQL
+  - Styled component
+  - Jquery & AngularJS (OG stuff 😼)
+  - C#
